@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @canoka
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Wordpress, JS
-- 📫 How to reach me : mailto:muhammet.karsli@avencrea.com
-- ⚡ Fun fact: I am singing
